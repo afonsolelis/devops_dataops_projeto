@@ -7,3 +7,5 @@ public class CalculationResponse
     public bool Success { get; set; }
     public string? ErrorMessage { get; set; }
 }
+
+// This class represents the response structure for a calculation operation.
